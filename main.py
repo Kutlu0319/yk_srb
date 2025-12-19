@@ -7,9 +7,9 @@ from bs4 import BeautifulSoup
 OUTPUT_FILE = "Canli_Spor_Hepsi.m3u"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 
-# --- 1. NETSPOR FONKSİYONU ---
+# --- 1. NETSPOR / GÜNÜN MAÇLARI FONKSİYONU ---
 def fetch_netspor():
-    print("[*] Netspor taranıyor...")
+    print("[*] Netspor taranıyor (Günün Maçları)...")
     results = []
     source_url = "https://netspor-amp.xyz/"
     stream_base = "https://andro.6441255.xyz/checklist/"
@@ -20,10 +20,22 @@ def fetch_netspor():
         for div in soup.find_all('div', class_='mac', option=True):
             sid = div['option']
             title = div.find('div', class_='match-takimlar').get_text(strip=True)
-            group = "NETSPOR KANALLAR" if div.find_parent('div', id='yayinlarKanallar') else "NETSPOR MACLAR"
-            results.append({"name": title, "url": f"{stream_base}{sid}.m3u8", "group": group, "ref": source_url, "logo": ""})
+            
+            # Kategori isimlerini Türkçeleştirdik
+            if div.find_parent('div', id='yayinlarKanallar'):
+                group = "CANLI TV KANALLARI"
+            else:
+                group = "Günün Maçları"
+                
+            results.append({
+                "name": title, 
+                "url": f"{stream_base}{sid}.m3u8", 
+                "group": group, 
+                "ref": source_url, 
+                "logo": ""
+            })
     except: pass
-    return results
+    return list(reversed(results)) # Yeni maçları en üste alması için listeyi ters çevirdik
 
 # --- 2. TRGOALS FONKSİYONU ---
 def fetch_trgoals():
@@ -31,6 +43,7 @@ def fetch_trgoals():
     results = []
     base_prefix = "https://trgoals"
     domain = None
+    # Aktif domaini bul
     for i in range(1485, 2101):
         test = f"{base_prefix}{i}.xyz"
         try:
@@ -45,7 +58,13 @@ def fetch_trgoals():
                 r = requests.get(f"{domain}/channel.html?id={cid}", headers=HEADERS, timeout=5)
                 m = re.search(r'const baseurl = "(.*?)"', r.text)
                 if m:
-                    results.append({"name": f"TRG - {name}", "url": f"{m.group(1)}{cid}.m3u8", "group": "TRGOALS", "ref": f"{domain}/", "logo": "https://i.ibb.co/gFyFDdDN/trgoals.jpg"})
+                    results.append({
+                        "name": f"TRG - {name}", 
+                        "url": f"{m.group(1)}{cid}.m3u8", 
+                        "group": "TRGOALS TV", 
+                        "ref": f"{domain}/", 
+                        "logo": "https://i.ibb.co/gFyFDdDN/trgoals.jpg"
+                    })
             except: continue
     return results
 
@@ -54,31 +73,27 @@ def fetch_selcuk_sporcafe():
     print("[*] Selçukspor / Sporcafe taranıyor...")
     results = []
     
-    # Kanal listesi (Senin son paylaştığın liste)
     selcuk_channels = [
         {"id": "selcukbeinsports1", "name": "BeIN Sports 1", "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"},
         {"id": "selcukbeinsports2", "name": "BeIN Sports 2", "logo": "https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"},
         {"id": "selcukbeinsports3", "name": "BeIN Sports 3", "logo": "https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png"},
         {"id": "selcukbeinsports4", "name": "BeIN Sports 4", "logo": "https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png"},
         {"id": "selcukbeinsports5", "name": "BeIN Sports 5", "logo": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png"},
-        {"id": "selcukbeinsportsmax1", "name": "BeIN Sports Max 1", "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png"},
         {"id": "selcuktivibuspor1", "name": "Tivibu Spor 1", "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png"},
-        {"id": "selcukssport", "name": "S Sport 1", "logo": "https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png"},
-        {"id": "selcuksmartspor", "name": "Smart Spor 1", "logo": "https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png"}
+        {"id": "selcukssport", "name": "S Sport 1", "logo": "https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png"}
     ]
 
     working_html, referer = None, None
-    for i in range(6, 100):
+    for i in range(6, 120):
         url = f"https://www.sporcafe{i}.xyz/"
         try:
-            res = requests.get(url, headers=HEADERS, timeout=2)
+            res = requests.get(url, headers=HEADERS, timeout=1)
             if res.status_code == 200 and "uxsyplayer" in res.text:
                 working_html, referer = res.text, url
                 break
         except: continue
     
     if working_html:
-        # Stream domainini bul
         s_match = re.search(r'https?://(main\.uxsyplayer[0-9a-zA-Z\-]+\.click)', working_html)
         if s_match:
             stream_domain = f"https://{s_match.group(1)}"
@@ -101,17 +116,17 @@ def fetch_selcuk_sporcafe():
 def main():
     all_streams = []
     
-    # Tüm kaynaklardan verileri topla
+    # Kaynakları sırayla ekle
     all_streams.extend(fetch_netspor())
     all_streams.extend(fetch_trgoals())
     all_streams.extend(fetch_selcuk_sporcafe())
     
     if not all_streams:
-        print("Hiçbir yayın çekilemedi!")
+        print("Hata: Hiçbir yayın bulunamadı!")
         return
 
     content = "#EXTM3U\n"
-    content += f"# Guncelleme: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+    content += f"# Birlesik Spor Paketi - Son Guncelleme: {datetime.datetime.now().strftime('%d.%m.%Y %H:%M:%S')}\n"
     
     for s in all_streams:
         logo = f' tvg-logo="{s["logo"]}"' if s["logo"] else ""
@@ -121,7 +136,7 @@ def main():
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(content)
-    print(f"\n[BİTTİ] Toplam {len(all_streams)} kanal kaydedildi.")
+    print(f"\n[BASARILI] Toplam {len(all_streams)} kanal kaydedildi.")
 
 if __name__ == "__main__":
     main()
