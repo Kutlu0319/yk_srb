@@ -1,5 +1,5 @@
 #EXTM3U
-# Birlesik Spor Paketi - Son Guncelleme: 19.12.2025 22:36:03
+# Birlesik Spor Paketi - Son Guncelleme: 19.12.2025 22:40:22
 #EXTINF:-1 group-title="CANLI TV KANALLARI",Exxen Sports 8
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamliveexn8.m3u8
@@ -165,24 +165,39 @@ https://andro.6441255.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 group-title="CANLI TV KANALLARI",Bein Sports 1
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Türkiye (Bayanlar) - Sırbistan (Bayanlar)CANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17956150.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Japonya - İtalyaCANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17956070.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Mozambik - KübaCANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17956423.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Slovakya - JaponyaCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956346.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Fransa - KübaCANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17956504.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Londrina (Bayanlar) - Abel Moda (Bayanlar)CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956512.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Araguari Volei EVA - Sesc AECGVCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956511.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Mısır - JaponyaCANLI
+#EXTINF:-1 group-title="Günün Maçları",Slovenya - BrezilyaCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17956363.m3u8
+https://andro.6441255.xyz/checklist/androstreamlivech17956422.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Sorocaba (Bayanlar) - Minas (Bayanlar)CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956270.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Mackenzie EC (Bayanlar) - SESC Flamengo (Bayanlar)CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956271.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Ural Masters - Ural SnipersCANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17956151.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Matilde Magrini - Hudson HawkinsCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956108.m3u8
@@ -210,12 +225,12 @@ https://andro.6441255.xyz/checklist/androstreamlivech17956226.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Raptors 905 - San Diego ClippersCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956317.m3u8
-#EXTINF:-1 group-title="Günün Maçları",CAB Madeira - PortimonenseCANLI
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17956092.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Surgut - KurganCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956462.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Dordt University (Bayanlar) - MidAmerica Nazarene (Bayanlar)CANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17956514.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Clube 5Basket U23 - Porto U23CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956429.m3u8
@@ -228,9 +243,6 @@ https://andro.6441255.xyz/checklist/androstreamlivech17956360.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Meksika (TBL) - Peru (TBL)CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956354.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Surgut - AdlerCANLI
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17956229.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Central TT - San Juan Jabloteh F.C.CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956401.m3u8
