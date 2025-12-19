@@ -1,5 +1,5 @@
 #EXTM3U
-# Birlesik Liste Guncelleme: 2025-12-19 22:18:44
+# Guncelleme: 2025-12-19 22:30:15
 #EXTINF:-1 group-title="NETSPOR MACLAR",Konyaspor - Kayserispor
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivebs2.m3u8
@@ -159,12 +159,6 @@ https://andro.6441255.xyz/checklist/androstreamlivech17956388.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Central TT - San Juan Jabloteh F.C.CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956401.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Estudiantes de Mérida - Athletic Bilbao IICANLI
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17955983.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",G.D. Estoril Praia - S.C. BragaCANLI
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17955957.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Surgut - AdlerCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956229.m3u8
@@ -183,9 +177,6 @@ https://andro.6441255.xyz/checklist/androstreamlivech17956429.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Surgut - KurganCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956462.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",FC Barcelona Bàsquet - Saski BaskoniaCANLI
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17955705.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",CAB Madeira - PortimonenseCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956092.m3u8
@@ -198,9 +189,6 @@ https://andro.6441255.xyz/checklist/androstreamlivech17956088.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Kelly Keller - Olive MaunupauCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956226.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Alessandro-Damiano Ventre - Niels HoffmannCANLI
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17956200.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Mitchell Sheldon - Frederic SchlossmannCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17956232.m3u8
@@ -399,36 +387,51 @@ https://andro.6441255.xyz/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 group-title="NETSPOR KANALLAR",Exxen Sports 8
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",BEIN 1
+#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN 1
 #EXTVLCOPT:http-referrer=https://trgoals1489.xyz/
 https://gpx.d72577a9dd0ec1.sbs/yayin1.m3u8
-#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",BEIN 2
+#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN 2
 #EXTVLCOPT:http-referrer=https://trgoals1489.xyz/
 https://gpx.d72577a9dd0ec1.sbs/yayinb2.m3u8
-#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",BEIN 3
+#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN 3
 #EXTVLCOPT:http-referrer=https://trgoals1489.xyz/
 https://gpx.d72577a9dd0ec1.sbs/yayinb3.m3u8
-#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",BEIN 4
+#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN 4
 #EXTVLCOPT:http-referrer=https://trgoals1489.xyz/
 https://gpx.d72577a9dd0ec1.sbs/yayinb4.m3u8
-#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",BEIN 5
+#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN 5
 #EXTVLCOPT:http-referrer=https://trgoals1489.xyz/
 https://gpx.d72577a9dd0ec1.sbs/yayinb5.m3u8
-#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",S SPORT
+#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - S SPORT
 #EXTVLCOPT:http-referrer=https://trgoals1489.xyz/
 https://gpx.d72577a9dd0ec1.sbs/yayinss.m3u8
-#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TIVIBU 1
+#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - TIVIBU 1
 #EXTVLCOPT:http-referrer=https://trgoals1489.xyz/
 https://gpx.d72577a9dd0ec1.sbs/yayint1.m3u8
-#EXTINF:-1 group-title="SELÇUKSPOR / CAFE",BEIN 1
-#EXTVLCOPT:http-referrer=https://www.sporcafe-4a2fb1f79d.xyz/
-https://dga1op10s1u3leo.4155657c37ab54.click/live/sbeinsports-1/playlist.m3u8
-#EXTINF:-1 group-title="SELÇUKSPOR / CAFE",BEIN 2
-#EXTVLCOPT:http-referrer=https://www.sporcafe-4a2fb1f79d.xyz/
-https://dga1op10s1u3leo.4155657c37ab54.click/live/sbeinsports-2/playlist.m3u8
-#EXTINF:-1 group-title="SELÇUKSPOR / CAFE",S SPORT
-#EXTVLCOPT:http-referrer=https://www.sporcafe-4a2fb1f79d.xyz/
-https://dga1op10s1u3leo.4155657c37ab54.click/live/sssport/playlist.m3u8
-#EXTINF:-1 group-title="SELÇUKSPOR / CAFE",TIVIBU 1
-#EXTVLCOPT:http-referrer=https://www.sporcafe-4a2fb1f79d.xyz/
-https://dga1op10s1u3leo.4155657c37ab54.click/live/stivibuspor-1/playlist.m3u8
+#EXTINF:-1 group-title="SELÇUKSPOR HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",BeIN Sports 1
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.4155657c37ab54.click/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 group-title="SELÇUKSPOR HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png",BeIN Sports 2
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.4155657c37ab54.click/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 group-title="SELÇUKSPOR HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png",BeIN Sports 3
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.4155657c37ab54.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 group-title="SELÇUKSPOR HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png",BeIN Sports 4
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.4155657c37ab54.click/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 group-title="SELÇUKSPOR HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png",BeIN Sports 5
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.4155657c37ab54.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 group-title="SELÇUKSPOR HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",BeIN Sports Max 1
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.4155657c37ab54.click/live/selcukbeinsportsmax1/playlist.m3u8
+#EXTINF:-1 group-title="SELÇUKSPOR HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",Tivibu Spor 1
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.4155657c37ab54.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 group-title="SELÇUKSPOR HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png",S Sport 1
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.4155657c37ab54.click/live/selcukssport/playlist.m3u8
+#EXTINF:-1 group-title="SELÇUKSPOR HD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png",Smart Spor 1
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.4155657c37ab54.click/live/selcuksmartspor/playlist.m3u8
