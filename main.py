@@ -7,35 +7,44 @@ from bs4 import BeautifulSoup
 OUTPUT_FILE = "Canli_Spor_Hepsi.m3u"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 
-# --- 1. NETSPOR / GÜNÜN MAÇLARI FONKSİYONU ---
+# --- 1. NETSPOR / GÜNÜN MAÇLARI VE KANALLAR ---
 def fetch_netspor():
-    print("[*] Netspor taranıyor (Günün Maçları)...")
-    results = []
+    print("[*] Netspor taranıyor...")
+    channels_list = []
+    matches_list = []
+    
     source_url = "https://netspor-amp.xyz/"
     stream_base = "https://andro.6441255.xyz/checklist/"
+    
     try:
         res = requests.get(source_url, headers=HEADERS, timeout=10)
         res.encoding = 'utf-8'
         soup = BeautifulSoup(res.text, 'html.parser')
+        
         for div in soup.find_all('div', class_='mac', option=True):
             sid = div['option']
             title = div.find('div', class_='match-takimlar').get_text(strip=True)
             
-            # Kategori isimlerini Türkçeleştirdik
-            if div.find_parent('div', id='yayinlarKanallar'):
-                group = "CANLI TV KANALLARI"
-            else:
-                group = "Günün Maçları"
-                
-            results.append({
+            item = {
                 "name": title, 
                 "url": f"{stream_base}{sid}.m3u8", 
-                "group": group, 
                 "ref": source_url, 
                 "logo": ""
-            })
-    except: pass
-    return list(reversed(results)) # Yeni maçları en üste alması için listeyi ters çevirdik
+            }
+            
+            # Kanal mı Maç mı ayırıyoruz
+            if div.find_parent('div', id='yayinlarKanallar'):
+                item["group"] = "CANLI TV KANALLARI"
+                channels_list.append(item)
+            else:
+                item["group"] = "Günün Maçları"
+                matches_list.append(item)
+                
+    except Exception as e:
+        print(f"Netspor hatası: {e}")
+    
+    # Kanalları normal sırada (1,2,3), Maçları ise ters sırada (yeni maçlar üstte) birleştiriyoruz
+    return channels_list + list(reversed(matches_list))
 
 # --- 2. TRGOALS FONKSİYONU ---
 def fetch_trgoals():
@@ -43,8 +52,7 @@ def fetch_trgoals():
     results = []
     base_prefix = "https://trgoals"
     domain = None
-    # Aktif domaini bul
-    for i in range(1485, 2101):
+    for i in range(1485, 2150): # Menzili biraz daha genişlettik
         test = f"{base_prefix}{i}.xyz"
         try:
             if requests.head(test, timeout=1).status_code == 200:
@@ -84,7 +92,7 @@ def fetch_selcuk_sporcafe():
     ]
 
     working_html, referer = None, None
-    for i in range(6, 120):
+    for i in range(6, 130):
         url = f"https://www.sporcafe{i}.xyz/"
         try:
             res = requests.get(url, headers=HEADERS, timeout=1)
@@ -116,13 +124,14 @@ def fetch_selcuk_sporcafe():
 def main():
     all_streams = []
     
-    # Kaynakları sırayla ekle
+    # Netspor (Kanallar düz, maçlar ters sırada gelir)
     all_streams.extend(fetch_netspor())
+    # Trgoals
     all_streams.extend(fetch_trgoals())
+    # Selçukspor
     all_streams.extend(fetch_selcuk_sporcafe())
     
     if not all_streams:
-        print("Hata: Hiçbir yayın bulunamadı!")
         return
 
     content = "#EXTM3U\n"
@@ -130,13 +139,3 @@ def main():
     
     for s in all_streams:
         logo = f' tvg-logo="{s["logo"]}"' if s["logo"] else ""
-        content += f'#EXTINF:-1 group-title="{s["group"]}"{logo},{s["name"]}\n'
-        content += f'#EXTVLCOPT:http-referrer={s["ref"]}\n'
-        content += f'{s["url"]}\n'
-
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(content)
-    print(f"\n[BASARILI] Toplam {len(all_streams)} kanal kaydedildi.")
-
-if __name__ == "__main__":
-    main()
