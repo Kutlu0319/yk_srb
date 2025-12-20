@@ -1,5 +1,5 @@
 #EXTM3U
-# Birlesik Spor Paketi - Guncelleme: 20.12.2025 05:40:51
+# Birlesik Spor Paketi - Guncelleme: 20.12.2025 06:15:36
 #EXTINF:-1 group-title="CANLI TV KANALLARI",Bein Sports 1
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivebs1.m3u8
@@ -165,69 +165,99 @@ https://andro.6441255.xyz/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 group-title="CANLI TV KANALLARI",Exxen Sports 8
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamliveexn8.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Taipei Lions - Taichung Lion KingCANLI (09:00 | | | Tayvan Şampiyonası. Enterprise Ligi)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958230.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Küba - İranCANLI (08:55 | | | SpikeVolleyball. International Cup)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958186.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Rusya (Bayanlar) - Brezilya (Bayanlar)CANLI (08:50 | | | VCA. Master Volleyball League. Bayanlar)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958151.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Tsinghua University - North University of ChinaCANLI (08:45 | | | China. University League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958254.m3u8
+#EXTINF:-1 group-title="Günün Maçları",VC Dream (Bayanlar) - Ural Center (Bayanlar)CANLI (08:40 | | | Ural League 2. Bayanlar)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958093.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Brezilya (Bayanlar) - Türkiye (Bayanlar)CANLI (08:05 | | | VCA. Master Volleyball League. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957954.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Incheon Heungkuk (Bayanlar) - AI Peppers Gwangju (Bayanlar)CANLI (08:00 | | | South Korea Championship....)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957914.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Cheonan Hyundai Capital Skywalkers - Busan OK Savings BankCANLI (08:00 | | | Güney Kore Şampiyonası)
+#EXTINF:-1 group-title="Günün Maçları",Cheonan Hyundai Capital Skywalkers - Busan OK Savings BankCANLI (08:00 | | | South Korea Championship)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957915.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Ural United - Ural Air ForceCANLI (07:50 | | | Ural League)
+#EXTINF:-1 group-title="Günün Maçları",Incheon Heungkuk (Bayanlar) - AI Peppers Gwangju (Bayanlar)CANLI (08:00 | | | Güney Kore Şampiyonası. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957928.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Arjantin - JaponyaCANLI (07:40 | | | VCA. Master Volleyball League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957842.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Dinamo-Ufimochka BashGAU (Bayanlar) - Amurskiye Tigritsy Khabarovsk (Bayanlar)CANLI (07:30 | | | Rusya Şampiyonası. A Major Lig. Bayanlar)
+https://andro.6441255.xyz/checklist/androstreamlivech17957914.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Dinamo-Ufimochka BashGAU (Bayanlar) - Amurskiye Tigritsy Khabarovsk (Bayanlar)CANLI (07:30 | | | Russia Championship. Leag...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957813.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Slovenya - ABDCANLI (07:05 | | | VCA. Master Volleyball League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957711.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Rusya (Bayanlar) - Sırbistan (Bayanlar)CANLI (06:50 | | | VCA. Master Volleyball League. Bayanlar)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957653.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Xidian University - Jilin UniversityCANLI (06:15 | | | Çin. Üniversite Ligi)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957596.m3u8
 #EXTINF:-1 group-title="Günün Maçları",İtalya - ArjantinCANLI (05:30 | | | CBV 23. Duo Masters)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17958068.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Küba - JaponyaCANLI (04:40 | | | CBV 23. Duo Masters)
+#EXTINF:-1 group-title="Günün Maçları",Hiiro Sakamoto - Hien Quang Hien PhamCANLI (08:45 | | | UTR Pro Tennis Series. Ka...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957815.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Yuga Tashiro - Noritaka KoizumiCANLI (07:45 | | | UTR Pro Tennis Series. Ka...)
+https://andro.6441255.xyz/checklist/androstreamlivech17958192.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Mua Shigeta - Suzuna OigawaCANLI (08:30 | | | UTR Pro Tennis Series. Ka...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957909.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Pol Amoros Ramos - Taiyo SatoCANLI (07:45 | | | UTR Pro Tennis Series. Ka...)
+https://andro.6441255.xyz/checklist/androstreamlivech17958127.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Nao Nishino - Mayuka AikawaCANLI (07:15 | | | UTR Pro Tennis Series. Ka...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957903.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Oleg Fedotov - Andrey KolesnichenkoCANLI (07:42 | | | ATT. Saransk)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957860.m3u8
+https://andro.6441255.xyz/checklist/androstreamlivech17956858.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Vitalina Ziablikova - Alla DzhafarovaCANLI (07:11 | | | ATT. Moskova. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957742.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Sergey Filippov - Dmitry StepanovCANLI (06:57 | | | ATT. Togliatti)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957710.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Ange Oby Kajuru - Kurumi TamuraCANLI (03:00 | | | UTR Pro Tennis Series. Ka...)
+#EXTINF:-1 group-title="Günün Maçları",Gunma Crane Thunders - Hiroshima DragonfliesCANLI (09:05 | | | Japan. B League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17956854.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Ryota Tanuma - Kotaro MochizukiCANLI (03:00 | | | UTR Pro Tennis Series. Ka...)
+https://andro.6441255.xyz/checklist/androstreamlivech17958283.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Ibaraki Robots - Akita Northern HappinetsCANLI (09:05 | | | Japan. B League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17956852.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Anapa - UfaCANLI (08:15 | | | IPBL. Pro Division)
+https://andro.6441255.xyz/checklist/androstreamlivech17958282.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Kumamoto Volters - Kobe StorksCANLI (09:05 | | | Japan. B League. Division...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17958009.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Stavropol - SevastopolCANLI (08:06 | | | IPBL. Pro Division)
+https://andro.6441255.xyz/checklist/androstreamlivech17958294.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Kagoshima Rebnise - Fukushima FirebondsCANLI (09:05 | | | Japan. B League. Division...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957962.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Martians - JediCANLI (08:05 | | | IPBL. Space Division)
+https://andro.6441255.xyz/checklist/androstreamlivech17958296.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Ehime Orange Vikings - Fukui BlowindsCANLI (09:05 | | | Japan. B League. Division...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957902.m3u8
+https://andro.6441255.xyz/checklist/androstreamlivech17958291.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Toyota Alvark Tokyo - Levanga HokkaidoCANLI (09:05 | | | Japan. B League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958155.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Toyama Grouses - Ryukyu Golden Kings OkinawaCANLI (09:05 | | | Japan. B League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958157.m3u8
+#EXTINF:-1 group-title="Günün Maçları",SAN-EN NeoPhoenix - Aisin SeahorsesCANLI (09:05 | | | Japan. B League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958156.m3u8
+#EXTINF:-1 group-title="Günün Maçları",BB Albirex Niigata Rabbits (Bayanlar) - Mitsui Sumitomo Bank (Bayanlar)CANLI (09:00 | | | Japan. WJBL)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958251.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Moonballers - SkywalkersCANLI (09:00 | | | IPBL. Space Division)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958197.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Yaroslavl (Bayanlar) - Tomsk (Bayanlar)CANLI (09:00 | | | IPBL. Pro Division. Bayanlar)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958201.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Finland (TBL) - Rusya (TBL)CANLI (08:55 | | | Table Basketball League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958146.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Brezil (TBL) - Fransa (TBL)CANLI (08:55 | | | Table Basketball League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958150.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Hawaii Rainbow Wahine (Bayanlar) - Liberty Flames (Bayanlar)CANLI (08:30 | | | WNCAA)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958129.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Osaka Evessa - Sendai 89ersCANLI (08:05 | | | Japan. B League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958005.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Shiga Lakestars - Koshigaya AlphasCANLI (08:05 | | | Japan. B League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957950.m3u8
@@ -237,48 +267,30 @@ https://andro.6441255.xyz/checklist/androstreamlivech17958004.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Saga Ballooners - Yokohama B-CorsairsCANLI (08:05 | | | Japan. B League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17958011.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Osaka Evessa - Sendai 89ersCANLI (08:05 | | | Japan. B League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17958005.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Fujitsu Red Wave (Bayanlar) - Toyota Boshoku Sunshine Rabbits (Bayanlar)CANLI (08:00 | | | Japan. WJBL)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957973.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Bucheon Hana Bank (Bayanlar) - KB Stars (Bayanlar)CANLI (08:00 | | | Güney Kore Şampiyonası. WKBL. Bayanlar)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957922.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Takamatsu Five Arrows - Gifu SwoopsCANLI (08:00 | | | Japonya Şampiyonası. B Lig. 3.Bölüm)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957974.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Daegu KOGAS - Red Boosters AnyangCANLI (08:00 | | | South Korea. KBL)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957927.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Seoul SK Knights - Seoul Samsung ThundersCANLI (08:00 | | | South Korea. KBL)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957926.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Cheboksary (Bayanlar) - Tambov (Bayanlar)CANLI (07:58 | | | IPBL. Pro Division. Bayanlar)
+#EXTINF:-1 group-title="Günün Maçları",Takamatsu Five Arrows - Gifu SwoopsCANLI (08:00 | | | Japonya Şampiyonası. B Lig. 3.Bölüm)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957901.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Fransa (TBL) - Finland (TBL)CANLI (07:55 | | | Table Basketball League)
+https://andro.6441255.xyz/checklist/androstreamlivech17957974.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Fujitsu Red Wave (Bayanlar) - Toyota Boshoku Sunshine Rabbits (Bayanlar)CANLI (08:00 | | | Japonya Şampiyonası. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957879.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Rusya (TBL) - Brezil (TBL)CANLI (07:55 | | | Table Basketball League)
+https://andro.6441255.xyz/checklist/androstreamlivech17957973.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Daegu KOGAS - Red Boosters AnyangCANLI (08:00 | | | South Korea. KBL)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957881.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Shanghai Fives - Kunming MonksCANLI (07:45 | | | Çin. CDBL)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957844.m3u8
+https://andro.6441255.xyz/checklist/androstreamlivech17957927.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Seattle Redhawks - Washington HuskiesCANLI (07:30 | | | Ulusal Öğrenci Spor Birliği (NСАА))
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957868.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Earthfriends Tokyo Z - YamaguchiCANLI (07:00 | | | Japonya Şampiyonası. B Lig. 3.Bölüm)
+#EXTINF:-1 group-title="Günün Maçları",Canberra United FC (Bayanlar) - Central Coast Mariners (Bayanlar)CANLI (09:00 | | | Australia Championship. W...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957899.m3u8
+https://andro.6441255.xyz/checklist/androstreamlivech17958175.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Newcastle Jets - SydneyCANLI (09:00 | | | Australia. A League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17958176.m3u8
 #EXTINF:-1 group-title="Günün Maçları",AC Nagano Parceiro (Bayanlar) - NTV Beleza (Bayanlar)CANLI (08:00 | | | Japonya Şampiyonası. WE Ligi. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957981.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Alto Zambeze - Independente Candomble BantuCANLI (08:00 | | | Angola. Liga Bantu)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17957935.m3u8
 #EXTINF:-1 group-title="Günün Maçları",AS Elfen Saitama (Bayanlar) - JEF United Ichihara Chiba (Bayanlar)CANLI (08:00 | | | Japonya Şampiyonası. WE Ligi. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17958002.m3u8
@@ -294,9 +306,6 @@ https://andro.6441255.xyz/checklist/androstreamlivech17957982.m3u8
 #EXTINF:-1 group-title="Günün Maçları",MyNavi Sendai (Bayanlar) - RB Omiya Ardija (Bayanlar)CANLI (08:00 | | | Japonya Şampiyonası. WE Ligi. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17958001.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Gyirong - Jiang CountyCANLI (08:00 | | | China. Shigatse Sports Lo...)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17958044.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Kaohsiung Attackers (Bayanlar) - Taichung Cherry Blossoms (Bayanlar)CANLI (07:30 | | | Chinese Taipei. Football ...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17957770.m3u8
