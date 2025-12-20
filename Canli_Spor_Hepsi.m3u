@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-# Birlesik Liste Guncelleme: 20.12.2025 17:36:22
+# Birlesik Liste Guncelleme: 20.12.2025 18:12:55
 #EXTINF:-1 group-title="CANLI TV KANALLARI",Bein Sports 1
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivebs1.m3u8
@@ -168,9 +168,6 @@ https://andro.6441255.xyz/checklist/androstreamliveexn8.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Beşiktaş - Ç.Rizespor (20:00 | | | Trendyol Süper Lig)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Manisa FK - Keçiörengücü (19:00 | | | Trendyol 1. Lig)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Lazio - Cremonese (20:00 | | | İtalya Serie A)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivets1.m3u8
@@ -357,21 +354,6 @@ https://andro.6441255.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Lyon - Saint Cyr Collonges (23:00 | | | Fransa Kupasi)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Feirense - Pacos de Ferreira (18:30 | | | Portugal. Segunda Liga)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961692.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Hapoel Jerusalem F.C. - Hapoel Haifa F.C. (18:30 | | | Israel. Premier League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961663.m3u8
-#EXTINF:-1 group-title="Günün Maçları",FC Oss - De Graafschap (18:30 | | | Netherlands. Eerste Divis...)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961688.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Heracles Almelo - Heerenveen (18:30 | | | Netherlands. Eredivisie)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961656.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Volos NFC - Panetolikos (19:00 | | | Greece. SuperLeague)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961842.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Manisa - Keciorengucu (19:00 | | | Turkey. TFF 1. Lig)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17961805.m3u8
@@ -387,12 +369,12 @@ https://andro.6441255.xyz/checklist/androstreamlivech17962051.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Livorno - U.S. Città di Pontedera (19:30 | | | Italy. Serie C. Group B)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962052.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Sambenedettese - Vis Pesaro (19:30 | | | Italy. Serie C. Group B)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17962050.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Hapoel Petah Tikva F.C. - Hapoel Ironi Kiryat Shmona F.C (19:30 | | | Israel. Premier League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962054.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Sambenedettese - Vis Pesaro (19:30 | | | Italy. Serie C. Group B)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962050.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Dinamo Zagreb - NK Lokomotiva (19:45 | | | Croatia. HNL)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962118.m3u8
@@ -402,6 +384,9 @@ https://andro.6441255.xyz/checklist/androstreamlivech17962259.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Győri ETO - Puskás Akadémia FC (20:00 | | | Macaristan Şampiyonası. Süper Lig)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962213.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Lazio - Cremonese | 3 | (20:00 | | | Italy. Serie A)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962189.m3u8
 #EXTINF:-1 group-title="Günün Maçları",US Raon-l'Etape - Paris (20:00 | | | Coupe de France)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962270.m3u8
@@ -420,9 +405,6 @@ https://andro.6441255.xyz/checklist/androstreamlivech17962253.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Thun - Zurich (20:00 | | | Switzerland. SuperLeague)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962269.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Lazio - Cremonese | 3 | (20:00 | | | Italy. Serie A)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17962189.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Grenoble Foot 38 - Nancy (20:00 | | | Coupe de France)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962264.m3u8
@@ -438,9 +420,15 @@ https://andro.6441255.xyz/checklist/androstreamlivech17962478.m3u8
 #EXTINF:-1 group-title="Günün Maçları",RasenBallsport Leipzig - Bayer 04 Leverkusen (20:30 | | | Germany. Bundesliga)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962441.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Tennessee Volunteers (Bayanlar) - Louisville Cardinals (Bayanlar) (18:45 | | | WNCAA)
+#EXTINF:-1 group-title="Günün Maçları",Excelsior - PEC Zwolle (20:45 | | | Netherlands. Eredivisie)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961974.m3u8
+https://andro.6441255.xyz/checklist/androstreamlivech17962573.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Gil Vicente F.C. - Rio Ave F.C. (21:00 | | | Portugal. Primeira Liga)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962628.m3u8
+#EXTINF:-1 group-title="Günün Maçları",UTA Arad - FC Dinamo București (21:00 | | | Romania. Liga 1)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962625.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Panathinaikos B.C. - Iraklis (19:15 | | | Greece. A1)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17961957.m3u8
@@ -468,6 +456,9 @@ https://andro.6441255.xyz/checklist/androstreamlivech17962244.m3u8
 #EXTINF:-1 group-title="Günün Maçları",JDA Dijon Bourgogne - SLUC Nancy Basket (20:00 | | | France. LNB)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962236.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Virtus Cagliari (Bayanlar) - San Salvatore Selargius (Bayanlar) (20:00 | | | İtalya Şampiyonası. Serie A2. Bayanlar)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962720.m3u8
 #EXTINF:-1 group-title="Günün Maçları",AZS AJP Gorzow Wielkopolski (Bayanlar) - Polonia Warszawa (Bayanlar) (20:00 | | | Polonya Şampiyonası. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962459.m3u8
@@ -495,158 +486,158 @@ https://andro.6441255.xyz/checklist/androstreamlivech17962445.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Bnei Herzliya - Hapoel Tel Aviv B.C. (20:10 | | | Israel. Superleague)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962424.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Alba Berlin - Ratiopharm Ulm (20:30 | | | Germany. BBL)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17962495.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Le Mans Sarthe Basket - BCM Gravelines (20:30 | | | France. LNB)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962490.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Alba Berlin - Ratiopharm Ulm (20:30 | | | Germany. BBL)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962495.m3u8
+#EXTINF:-1 group-title="Günün Maçları",KK FMP - KK Igokea (20:30 | | | ABA League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962566.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Science City Jena - Brose Bamberg (20:30 | | | Germany. BBL)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962494.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Alexander Blockx - Nicolai Budkov Kjaer (19:00 | | | ATP. Final Championship. Next Generation)
+#EXTINF:-1 group-title="Günün Maçları",Kentucky Wildcats - St. John's Red Storm (20:30 | | | Ulusal Öğrenci Spor Birliği (NСАА))
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961803.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Ciutat Cide (Bayanlar) - Energy Sóller (Bayanlar) (18:30 | | | İspanya Şampiyonası. Süper Lig 2. Bayanlar)
+https://andro.6441255.xyz/checklist/androstreamlivech17962595.m3u8
+#EXTINF:-1 group-title="Günün Maçları",CB Gran Canaria - CB Granada (21:00 | | | Spain. Liga ACB)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961725.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Sabadel CN - Balafia Lleida (18:30 | | | İspanya Şampiyonası. Süper Lig 2)
+https://andro.6441255.xyz/checklist/androstreamlivech17962682.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Lleida - Real Madrid Baloncesto (21:00 | | | Spain. Liga ACB)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961744.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Benidorm - Leganes (19:00 | | | İspanya Şampiyonası. Süper Lig)
+https://andro.6441255.xyz/checklist/androstreamlivech17962678.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Learner Tien - Nishesh Basavareddy (20:45 | | | ATP. Final Championship. ...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961920.m3u8
+https://andro.6441255.xyz/checklist/androstreamlivech17962620.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Bisamberg Hollabrunn - VBK Klagenfurt (19:00 | | | Austria. Bundesliga)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17961870.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Mintonette Almeria - CV Pinto (19:00 | | | İspanya Şampiyonası. Süper Lig 2)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17961933.m3u8
-#EXTINF:-1 group-title="Günün Maçları",University Granada (Bayanlar) - Paterna-Liceo (Bayanlar) (19:00 | | | İspanya Şampiyonası. Süper Lig 2. Bayanlar)
+#EXTINF:-1 group-title="Günün Maçları",University Granada (Women) - Paterna-Liceo (Women) (19:00 | | | Spain. SuperLiga 2. Women)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962064.m3u8
-#EXTINF:-1 group-title="Günün Maçları",UBE L'Illa Grau - Arenys | 3 | (19:00 | | | Spain. SuperLiga 2)
+#EXTINF:-1 group-title="Günün Maçları",Stiinta Bucuresti - Rapid Bucuresti (19:00 | | | Romanya Şampiyonası. Bölüm А1)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17962091.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Příbram - Lvy Praha (19:00 | | | Czech Republic. Extraliga)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961822.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Zlin - Karlovarsko (19:00 | | | Czech Republic. Extraliga)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961821.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Emeve (Bayanlar) - CV Kiele Socuellamos (Bayanlar) (19:00 | | | İspanya Şampiyonası. Süper Lig. Bayanlar)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17961983.m3u8
+https://andro.6441255.xyz/checklist/androstreamlivech17961874.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Zaksa Kędzierzyn-Koźle - CHKS Chelm (19:30 | | | Polonya Şampiyonası. Plus Lig)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962044.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Elite Voley Rosario (Women) - Premia de Dalt (Women) (19:30 | | | Spain. SuperLiga 2. Women)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17962130.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Descubre Fuentes (Women) - Mairena (Women) (19:30 | | | Spain. SuperLiga 2. Women)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17962146.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Zalaeta (Bayanlar) - RGC Covadonga (Bayanlar) (19:30 | | | İspanya Şampiyonası. Süper Lig 2. Bayanlar)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17962113.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Dresdner SC (Bayanlar) - Schwarz-Weiss Erfurt(Bayanlar) (19:30 | | | Germany. Bundesliga. Wome...)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17962042.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Kladno - Brno (19:45 | | | Czech Republic. Extraliga)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962283.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Beskydy - Benatky nad Jizerou (19:45 | | | Czech Republic. Extraliga)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962280.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Spike Devils Campobasso - Vidya Viridex Sabaudia (19:45 | | | İtalya Şampiyonası. A3)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962386.m3u8
 #EXTINF:-1 group-title="Günün Maçları",TSV Haching Munchen - VCO Berlin (20:00 | | | Germany. Bundesliga)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962408.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Gas Sales Piacenza - Marmi Lanza Verona (20:00 | | | Italy. Superlega)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962249.m3u8
 #EXTINF:-1 group-title="Günün Maçları",CV Tenerife (Bayanlar) - Cuesta Piedra Santa Crus (Bayanlar) (20:00 | | | İspanya Şampiyonası. Süper Lig 2. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962410.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Manacor - Tarragona (20:00 | | | Spain. SuperLiga)
+#EXTINF:-1 group-title="Günün Maçları",Manacor - Tarragona (20:00 | | | İspanya Şampiyonası. Süper Lig)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962343.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Maccabi Ashdod - Maccabi Tel Aviv (20:00 | | | İsrail Şampiyonası. Premier Lig)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962436.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Hapoel SVA Rehovot - Hapoel Mate-Asher Akko (20:00 | | | İsrail Şampiyonası. Premier Lig)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962434.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Cajasol Andalucia (Bayanlar) - C.V. Sant Cugat (Bayanlar) (20:00 | | | İspanya Şampiyonası. Süper Lig. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962397.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Haro Rioja Volley (Bayanlar) - CV Melilla (Bayanlar) (20:00 | | | İspanya Şampiyonası. Süper Lig. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962364.m3u8
-#EXTINF:-1 group-title="Günün Maçları",Gas Sales Piacenza - Marmi Lanza Verona (20:00 | | | Italy. Superlega)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.6441255.xyz/checklist/androstreamlivech17962249.m3u8
 #EXTINF:-1 group-title="Günün Maçları",Schwerin (Bayanlar) - VC Wiesbaden (Bayanlar) (20:00 | | | Germany. Bundesliga. Wome...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962411.m3u8
 #EXTINF:-1 group-title="Günün Maçları",CV Barcelona (Bayanlar) - Zaragoza (Bayanlar) (20:15 | | | İspanya Şampiyonası. Süper Lig 2. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.6441255.xyz/checklist/androstreamlivech17962543.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Dumbria - Galdakao (20:30 | | | İspanya Şampiyonası. Süper Lig 2)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962565.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Tenerife Libbys La Laguna (Bayanlar) - Sayre Mayser (Bayanlar) (20:45 | | | İspanya Şampiyonası. Süper Lig. Bayanlar)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962721.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Leleman Valencia - Unicaja Almería Voley (20:45 | | | İspanya Şampiyonası. Süper Lig)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962714.m3u8
+#EXTINF:-1 group-title="Günün Maçları",Aluron Warta Zawiercie - Osaka Bluteon (20:45 | | | FIVB Club World Champions...)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.6441255.xyz/checklist/androstreamlivech17962736.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN SPORTS 1
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayin1.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN SPORTS 2
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinb2.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN SPORTS 3
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinb3.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN SPORTS 4
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinb4.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN SPORTS 5
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinb5.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN SPORTS MAX 1
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinbm1.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - BEIN SPORTS MAX 2
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinbm2.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - S SPORT 1
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinss.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - S SPORT 2
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinss2.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - TIVIBU SPOR 1
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayint1.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - TIVIBU SPOR 2
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayint2.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - TIVIBU SPOR 3
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayint3.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - TIVIBU SPOR 4
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayint4.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - SMART SPOR 1
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinsmarts.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - SMART SPOR 2
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinsms2.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - TRT SPOR
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayintrtspor.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - A SPOR
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinas.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - TV8
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayintv8.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - TV8,5
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayintv85.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - TABII 1
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinex1.m3u8
 #EXTINF:-1 group-title="TRGOALS TV" tvg-logo="https://i.ibb.co/gFyFDdDN/trgoals.jpg",TRG - TABII 2
-#EXTVLCOPT:http-referrer=https://trgoals1490.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1491.xyz/
 https://771.d72577a9dd0ec2.sbs/yayinex2.m3u8
 #EXTINF:-1 group-title="SELÇUKSPOR HD",SL - BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
