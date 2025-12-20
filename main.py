@@ -9,142 +9,107 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
 }
 
+# --- 1. NETSPOR FONKSİYONU (Kanallar ve Günün Maçları) ---
 def fetch_netspor():
-    print("\n--- [SİTE 1: NETSPOR TARAMASI] ---")
-    final_list = []
+    print("[*] Netspor taranıyor...")
+    results = []
     source_url = "https://netspor-amp.xyz/"
     stream_base = "https://andro.6441255.xyz/checklist/"
-    
     try:
-        res = requests.get(source_url, headers=HEADERS, timeout=15)
+        res = requests.get(source_url, headers=HEADERS, timeout=10)
         res.encoding = 'utf-8'
         soup = BeautifulSoup(res.text, 'html.parser')
         
-        # 1. CANLI TV KANALLARI (Sırasıyla: BeIN 1, 2, 3...)
-        ch_section = soup.find('div', id='kontrolPanelKanallar')
-        if ch_section:
-            for div in ch_section.find_all('div', class_='mac', option=True):
+        # A) Kanallar (Sıralı: BeIN 1, 2, 3...)
+        ch_sec = soup.find('div', id='kontrolPanelKanallar')
+        if ch_sec:
+            for div in ch_sec.find_all('div', class_='mac', option=True):
                 sid = div.get('option')
-                t_div = div.find('div', class_='match-takimlar')
-                if sid and t_div:
-                    name = t_div.get_text(strip=True)
-                    final_list.append({
-                        "name": name,
-                        "url": f"{stream_base}{sid}.m3u8",
-                        "group": "CANLI TV KANALLARI",
-                        "ref": source_url, "logo": ""
-                    })
-            print(f"[OK] Netspor: {len(final_list)} kanal çekildi.")
-
-        # 2. GÜNÜN MAÇLARI (Sitedeki orijinal sırayla)
-        match_section = soup.find('div', id='kontrolPanel')
-        if match_section:
-            added_urls = set() # Tekrar eden maçları engellemek için
-            all_match_divs = match_section.find_all('div', class_='mac', option=True)
-            for div in all_match_divs:
+                title = div.find('div', class_='match-takimlar').get_text(strip=True)
+                results.append({"name": title, "url": f"{stream_base}{sid}.m3u8", "group": "CANLI TV KANALLARI", "ref": source_url, "logo": ""})
+        
+        # B) Maçlar (Günün Maçları)
+        m_sec = soup.find('div', id='kontrolPanel')
+        if m_sec:
+            for div in m_sec.find_all('div', class_='mac', option=True):
                 sid = div.get('option')
-                t_div = div.find('div', class_='match-takimlar')
-                if sid and t_div:
-                    m_url = f"{stream_base}{sid}.m3u8"
-                    if m_url not in added_urls:
-                        teams = t_div.get_text(strip=True).replace("CANLI", "").strip()
-                        alt = div.find('div', class_='match-alt')
-                        info = alt.get_text(" | ", strip=True) if alt else ""
-                        
-                        final_list.append({
-                            "name": f"{teams} ({info})",
-                            "url": m_url,
-                            "group": "Günün Maçları",
-                            "ref": source_url, "logo": ""
-                        })
-                        added_urls.add(m_url)
-            print(f"[OK] Netspor: Maçlar eklendi.")
-            
-        return final_list, "BAŞARILI"
+                teams = div.find('div', class_='match-takimlar').get_text(strip=True).replace("CANLI", "").strip()
+                alt = div.find('div', class_='match-alt').get_text(" | ", strip=True) if div.find('div', class_='match-alt') else ""
+                results.append({"name": f"{teams} ({alt})", "url": f"{stream_base}{sid}.m3u8", "group": "Günün Maçları", "ref": source_url, "logo": ""})
     except Exception as e:
-        return [], f"HATA: {str(e)}"
+        print(f"Netspor Hatası: {e}")
+    return results
 
+# --- 2. TRGOALS FONKSİYONU ---
 def fetch_trgoals():
-    print("\n--- [SİTE 2: TRGOALS TARAMASI] ---")
+    print("[*] Trgoals taranıyor...")
     results = []
     domain = None
-    # Aktif domain bulma
     for i in range(1485, 2150):
         test = f"https://trgoals{i}.xyz"
         try:
             if requests.head(test, timeout=1).status_code == 200:
-                domain = test
-                break
+                domain = test; break
         except: continue
     
     if domain:
-        cids = {"yayin1":"BEIN 1","yayinb2":"BEIN 2","yayinb3":"BEIN 3","yayinss":"S SPORT"}
-        for cid, name in cids.items():
+        cids = [("yayin1","BEIN 1"), ("yayinb2","BEIN 2"), ("yayinb3","BEIN 3"), ("yayinb4","BEIN 4"), ("yayinb5","BEIN 5"), ("yayinss","S SPORT")]
+        for cid, name in cids:
             try:
                 r = requests.get(f"{domain}/channel.html?id={cid}", headers=HEADERS, timeout=5)
                 m = re.search(r'const baseurl = "(.*?)"', r.text)
                 if m:
-                    results.append({
-                        "name": f"TRG - {name}", "url": f"{m.group(1)}{cid}.m3u8",
-                        "group": "TRGOALS TV", "ref": f"{domain}/",
-                        "logo": "https://i.ibb.co/gFyFDdDN/trgoals.jpg"
-                    })
+                    results.append({"name": f"TRG - {name}", "url": f"{m.group(1)}{cid}.m3u8", "group": "TRGOALS TV", "ref": f"{domain}/", "logo": "https://i.ibb.co/gFyFDdDN/trgoals.jpg"})
             except: continue
-    return results, "BAŞARILI" if domain else "DOMAIN BULUNAMADI"
+    return results
 
+# --- 3. SELÇUKSPOR / SPORCAFE FONKSİYONU ---
 def fetch_selcuk_sporcafe():
-    print("\n--- [SİTE 3: SELÇUKSPOR TARAMASI] ---")
+    print("[*] Selçukspor / Sporcafe taranıyor...")
     results = []
-    referer = None
-    html_content = None
+    selcuk_channels = [
+        {"id": "selcukbeinsports1", "name": "BeIN Sports 1", "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"},
+        {"id": "selcukbeinsports2", "name": "BeIN Sports 2", "logo": "https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"},
+        {"id": "selcukssport", "name": "S Sport 1", "logo": "https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png"}
+    ]
+    referer, html_content = None, None
     for i in range(6, 130):
         url = f"https://www.sporcafe{i}.xyz/"
         try:
             res = requests.get(url, headers=HEADERS, timeout=1)
             if "uxsyplayer" in res.text:
-                referer, html_content = url, res.text
-                break
+                referer, html_content = url, res.text; break
         except: continue
     
     if html_content and referer:
         m = re.search(r'https?://(main\.uxsyplayer[0-9a-zA-Z\-]+\.click)', html_content)
         if m:
             s_domain = f"https://{m.group(1)}"
-            c_ids = [("selcukbeinsports1","BeIN 1"), ("selcukbeinsports2","BeIN 2"), ("selcukssport","S SPORT")]
-            for cid, cname in c_ids:
+            for ch in selcuk_channels:
                 try:
-                    r = requests.get(f"{s_domain}/index.php?id={cid}", headers={**HEADERS, "Referer": referer}, timeout=5)
-                    base = re.search(r'this\.adsBaseUrl\s*=\s*[\'"]([^\'"]+)', r.text)
-                    if base:
-                        results.append({
-                            "name": f"SL - {cname}", "url": f"{base.group(1)}{cid}/playlist.m3u8",
-                            "group": "SELÇUKSPOR HD", "ref": referer, "logo": ""
-                        })
+                    r = requests.get(f"{s_domain}/index.php?id={ch['id']}", headers={**HEADERS, "Referer": referer}, timeout=5)
+                    base_m = re.search(r'this\.adsBaseUrl\s*=\s*[\'"]([^\'"]+)', r.text)
+                    if base_m:
+                        results.append({"name": f"SL - {ch['name']}", "url": f"{base_m.group(1)}{ch['id']}/playlist.m3u8", "group": "SELÇUKSPOR HD", "ref": referer, "logo": ch['logo']})
                 except: continue
-    return results, "BAŞARILI" if referer else "SİTE BULUNAMADI"
+    return results
 
+# --- ANA ÇALIŞTIRICI ---
 def main():
     all_streams = []
     
-    # 1. Netspor (Sıralama: Kanallar -> Maçlar)
-    res_n, _ = fetch_netspor()
-    all_streams.extend(res_n)
+    # Tüm sitelerden verileri çek ve listeye ekle
+    all_streams.extend(fetch_netspor())
+    all_streams.extend(fetch_trgoals())
+    all_streams.extend(fetch_selcuk_sporcafe())
     
-    # 2. Trgoals
-    res_t, _ = fetch_trgoals()
-    all_streams.extend(res_t)
-    
-    # 3. Selçukspor
-    res_s, _ = fetch_selcuk_sporcafe()
-    all_streams.extend(res_s)
-
     if not all_streams:
-        print("[!] Veri bulunamadı.")
+        print("[!] Hiçbir siteden veri çekilemedi.")
         return
 
-    # Dosya oluşturma (UTF-8-SIG karakter sorununu kökten çözer)
+    # Dosyayı Oluştur (UTF-8-SIG Türkçe karakterler için)
     content = "#EXTM3U\n"
-    content += f"# Son Guncelleme: {datetime.datetime.now().strftime('%d.%m.%Y %H:%M:%S')}\n"
+    content += f"# Birlesik Spor Paketi - Guncelleme: {datetime.datetime.now().strftime('%d.%m.%Y %H:%M:%S')}\n"
     
     for s in all_streams:
         logo = f' tvg-logo="{s["logo"]}"' if s["logo"] else ""
@@ -154,7 +119,7 @@ def main():
 
     with open(OUTPUT_FILE, "w", encoding="utf-8-sig") as f:
         f.write(content)
-    print(f"\n[OK] Sıralama ve karakterler düzeltildi. '{OUTPUT_FILE}' hazır.")
+    print(f"\n[BASARILI] Toplam {len(all_streams)} kanal '{OUTPUT_FILE}' dosyasına kaydedildi.")
 
 if __name__ == "__main__":
     main()
