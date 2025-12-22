@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-# Son Guncelleme: 22.12.2025 08:15:59
+# Son Guncelleme: 22.12.2025 08:49:40
 #EXTINF:-1 group-title="VAVOO SPOR (STABIL)" tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-sports-haber-hd.png",VAVOO - beIN SPORTS Haber
 https://yildiziptv-turktv.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/vavoo-iptv/play/398999553310ffc0558467
 #EXTINF:-1 group-title="VAVOO SPOR (STABIL)" tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-sports-hd-1-1.png",VAVOO - beIN SPORTS 1 HD
@@ -136,9 +136,6 @@ https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Vitoria - Sporting Lisbon (23:45 | | | Portekiz Liga NOS)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Mangon - Putra FalaCANLI (09:30 | | | Indonesia. Bupati Sula Cu...)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17972629.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ward №7 - Ward №2CANLI (09:45 | | | Nepal. Tournament Running...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972675.m3u8
@@ -151,39 +148,30 @@ https://andro.adece12.sbs/checklist/androstreamlivech17972807.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Municipal Agricultural Investment - ZhongbaCANLI (10:35 | | | China. Shigatse Sports Lo...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972937.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Parisii+ - Dobunni+CANLI (10:59 | | | Short Football 4x4)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17972958.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Truong Tuoi Dong Nai U19 - Cong an TP HCM U19CANLI (11:00 | | | Vietnam Championship U19)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17973020.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Savannakhet - LuangprabangCANLI (11:00 | | | Laos Cup)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17973011.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ormina+ - Troya+CANLI (11:00 | | | Short Football 5x5)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Phulewadi Krida Mandal - Subhash NagarCANLI (11:00 | | | India. Shahu Chhatrapati ...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17972953.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17973093.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Salavan United - Mazda GBCANLI (11:00 | | | Laos Cup)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17973008.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Karaganda (Bayanlar) - Şımkent (Bayanlar)CANLI (10:00 | | | Kazakhstan. Higher League...)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - PSBS Biak Numfor - Bali United Pusam F.C.CANLI (11:30 | | | Indonesia. Super League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17972719.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Apollo - Infinity HoopCANLI (10:10 | | | IPBL. Space Division)
+https://andro.adece12.sbs/checklist/androstreamlivech17973103.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Coritani+ - Trinobantes+CANLI (11:31 | | | Short Football 4x4)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17972745.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Mad Ants - PiratesCANLI (10:25 | | | IPBL. Prime Division)
+https://andro.adece12.sbs/checklist/androstreamlivech17973177.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ubar+ - Valhalla+CANLI (11:36 | | | Short Football 5x5)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17972774.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17973175.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Shenyang Seagulls - Fuzhou GuardiansCANLI (10:44 | | | Çin. CDBL)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972919.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Bisons FB - Arrows FBCANLI (10:45 | | | FrostBall)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972899.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - BC Kyiv II - Lokomotiv KievCANLI (10:45 | | | Ukraine. First League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17973049.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Hawks - KingsCANLI (10:52 | | | Premier Liga)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972947.m3u8
@@ -202,36 +190,36 @@ https://andro.adece12.sbs/checklist/androstreamlivech17972955.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Tambov (Bayanlar) - Yaroslavl (Bayanlar)CANLI (11:00 | | | IPBL. Pro Division. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972977.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Meteor - AliensCANLI (11:05 | | | IPBL. Space Division)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech17973037.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Essentuki - IrkutskCANLI (11:10 | | | IPBL. Pro Division)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17973039.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Irina Ilyukhina - Olga KhaldeevaCANLI (09:23 | | | ATT. Moskova. Bayanlar)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - BC Kyiv II - Lokomotiv KievCANLI (11:15 | | | Ukraine. First League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17972511.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17973049.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Brisbane Bullets - Yeni Zelanda BreakersCANLI (11:30 | | | Australia. NBL)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech17973125.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Boris Timonkin - Victor AkimovCANLI (10:55 | | | ATT. Saransk)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972970.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Evgeniy Shaposhnikov - Pavel GushchinCANLI (11:01 | | | ATT. Togliatti)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17973003.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Diviatiarov/Mehonichev - Grigoriev/FiemsCANLI (11:07 | | | ATT. Marbella. Doubles)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Diviatiarov/Mehonichev - Grigoriev/FiemsCANLI (11:07 | | | ATT. Marbella. Çiftler)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972847.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Avustralya - JaponyaCANLI (07:10 | | | CBV 23. Duo Masters)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Lyudmila Gracheva - Anna MileevaCANLI (11:27 | | | ATT. Moskova. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17972736.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17973114.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ukrayna - KübaCANLI (08:00 | | | CBV 23. Duo Masters)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972990.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ural Wings - Ural MilitaryCANLI (09:40 | | | Ural League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17972611.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Abay - Mekan: ŞımkentCANLI (09:45 | | | Kazakhstan. Higher League)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Abay - Mekan: ŞımkentCANLI (09:45 | | | Kazakistan Şampiyonası. Süper Liga)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972691.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - ABD (Bayanlar) - İtalya (Bayanlar)CANLI (10:05 | | | VCA. Master Volleyball League. Bayanlar)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17972707.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Iset (Bayanlar) - Ural Center (Bayanlar)CANLI (10:30 | | | Ural League 2. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972792.m3u8
@@ -247,6 +235,15 @@ https://andro.adece12.sbs/checklist/androstreamlivech17972901.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Brezilya - İtalyaCANLI (10:50 | | | VCA. Master Volleyball League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17972921.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Polonya - ABDCANLI (11:15 | | | SpikeVolleyball. International Cup)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech17972917.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Turan Turkestan (Bayanlar) - VC Karağandı (Bayanlar)CANLI (11:15 | | | Kazakistan Kupası. Bayanlar)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech17973163.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - SKA-Ural - Ural Air ForceCANLI (11:30 | | | Ural League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech17973134.m3u8
 #EXTINF:-1 group-title="NETSPOR CANLI TV KANALLARI",NET - Bein Sports 1
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/receptestt.m3u8
