@@ -1,12 +1,16 @@
 import requests
 import re
 import datetime
+import urllib3
 from bs4 import BeautifulSoup
 
 # --- AYARLAR ---
 OUTPUT_FILE = "Canli_Spor_Hepsi.m3u"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 WORKING_BS1_URL = "https://andro.adece12.sbs/checklist/receptestt.m3u8"
+
+# SSL Uyarılarını gizle (Andro taraması için)
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- 1. VAVOO SİSTEMİ (STABİL KAYNAK) ---
 def fetch_vavoo():
@@ -64,7 +68,6 @@ def fetch_trgoals():
                 domain = test; break
         except: continue
     if domain:
-        # SENİN VERDİĞİN TÜM TRGOALS KANAL LİSTESİ
         trg_channels = {
             "yayin1":"BEIN SPORTS 1 HD", "yayinb2":"BEIN SPORTS 2 HD", "yayinb3":"BEIN SPORTS 3 HD",
             "yayinb4":"BEIN SPORTS 4 HD", "yayinb5":"BEIN SPORTS 5 HD", "yayinbm1":"BEIN SPORTS MAX 1",
@@ -85,7 +88,6 @@ def fetch_trgoals():
 def fetch_selcuk_sporcafe():
     print("[*] Selçukspor taranıyor...")
     results = []
-    # SENİN VERDİĞİN TÜM SELÇUKSPOR KANAL LİSTESİ
     selcuk_channels = [
         {"id": "selcukbeinsports1", "n": "BEIN SPORTS 1"}, {"id": "selcukbeinsports2", "n": "BEIN SPORTS 2"},
         {"id": "selcukbeinsports3", "n": "BEIN SPORTS 3"}, {"id": "selcukbeinsports4", "n": "BEIN SPORTS 4"},
@@ -114,27 +116,140 @@ def fetch_selcuk_sporcafe():
                 except: continue
     return results
 
+# --- 5. ANDRO PANEL SİSTEMİ (YENİ EKLENDİ) ---
+def fetch_andro_nodes():
+    print("[*] Andro-Panel (Taraftarium) taranıyor...")
+    results = []
+    
+    # Tarama için gerekli değişkenler
+    PROXY = "https://proxy.freecdn.workers.dev/?url="
+    START = "https://taraftariumizle.org"
+    
+    channels = [
+        ("androstreamlivebiraz1", 'TR:beIN Sport 1 HD'), ("androstreamlivebs1", 'TR:beIN Sport 1 HD'),
+        ("androstreamlivebs2", 'TR:beIN Sport 2 HD'), ("androstreamlivebs3", 'TR:beIN Sport 3 HD'),
+        ("androstreamlivebs4", 'TR:beIN Sport 4 HD'), ("androstreamlivebs5", 'TR:beIN Sport 5 HD'),
+        ("androstreamlivebsm1", 'TR:beIN Sport Max 1 HD'), ("androstreamlivebsm2", 'TR:beIN Sport Max 2 HD'),
+        ("androstreamlivess1", 'TR:S Sport 1 HD'), ("androstreamlivess2", 'TR:S Sport 2 HD'),
+        ("androstreamlivets", 'TR:Tivibu Sport HD'), ("androstreamlivets1", 'TR:Tivibu Sport 1 HD'),
+        ("androstreamlivets2", 'TR:Tivibu Sport 2 HD'), ("androstreamlivets3", 'TR:Tivibu Sport 3 HD'),
+        ("androstreamlivets4", 'TR:Tivibu Sport 4 HD'), ("androstreamlivesm1", 'TR:Smart Sport 1 HD'),
+        ("androstreamlivesm2", 'TR:Smart Sport 2 HD'), ("androstreamlivees1", 'TR:Euro Sport 1 HD'),
+        ("androstreamlivees2", 'TR:Euro Sport 2 HD'), ("androstreamlivetb", 'TR:Tabii HD'),
+        ("androstreamlivetb1", 'TR:Tabii 1 HD'), ("androstreamlivetb2", 'TR:Tabii 2 HD'),
+        ("androstreamlivetb3", 'TR:Tabii 3 HD'), ("androstreamlivetb4", 'TR:Tabii 4 HD'),
+        ("androstreamlivetb5", 'TR:Tabii 5 HD'), ("androstreamlivetb6", 'TR:Tabii 6 HD'),
+        ("androstreamlivetb7", 'TR:Tabii 7 HD'), ("androstreamlivetb8", 'TR:Tabii 8 HD'),
+        ("androstreamliveexn", 'TR:Exxen HD'), ("androstreamliveexn1", 'TR:Exxen 1 HD'),
+        ("androstreamliveexn2", 'TR:Exxen 2 HD'), ("androstreamliveexn3", 'TR:Exxen 3 HD'),
+        ("androstreamliveexn4", 'TR:Exxen 4 HD'), ("androstreamliveexn5", 'TR:Exxen 5 HD'),
+        ("androstreamliveexn6", 'TR:Exxen 6 HD'), ("androstreamliveexn7", 'TR:Exxen 7 HD'),
+        ("androstreamliveexn8", 'TR:Exxen 8 HD'),
+    ]
+
+    def get_src(u, ref=None):
+        try:
+            h = HEADERS.copy()
+            if ref: h['Referer'] = ref
+            # Proxy üzerinden istek atıyoruz
+            r = requests.get(PROXY + u, headers=h, verify=False, timeout=20)
+            return r.text if r.status_code == 200 else None
+        except: return None
+
+    try:
+        # 1. Ana sayfayı çek
+        h1 = get_src(START)
+        if not h1: return results
+
+        s = BeautifulSoup(h1, 'html.parser')
+        lnk = s.find('link', rel='amphtml')
+        if not lnk: return results
+        amp = lnk.get('href')
+
+        # 2. AMP sayfasını çek
+        h2 = get_src(amp)
+        if not h2: return results
+
+        m = re.search(r'\[src\]="appState\.currentIframe".*?src="(https?://[^"]+)"', h2, re.DOTALL)
+        if not m: return results
+        ifr = m.group(1)
+
+        # 3. İframe çek ve sunucuları bul
+        h3 = get_src(ifr, ref=amp)
+        if not h3: return results
+
+        bm = re.search(r'baseUrls\s*=\s*\[(.*?)\]', h3, re.DOTALL)
+        if not bm: return results
+
+        cl = bm.group(1).replace('"', '').replace("'", "").replace("\n", "").replace("\r", "")
+        srvs = [x.strip() for x in cl.split(',') if x.strip().startswith("http")]
+        srvs = list(set(srvs)) # Benzersiz yap
+
+        active_servers = []
+        tid = "androstreamlivebs1" 
+        
+        # 4. Sunucuları test et
+        for sv in srvs:
+            sv = sv.rstrip('/')
+            turl = f"{sv}/{tid}.m3u8" if "checklist" in sv else f"{sv}/checklist/{tid}.m3u8"
+            turl = turl.replace("checklist//", "checklist/")
+            
+            try:
+                # Test ederken proxy kullanıyoruz
+                tr = requests.get(PROXY + turl, headers=HEADERS, verify=False, timeout=5)
+                if tr.status_code == 200:
+                    active_servers.append(sv)
+            except: pass
+
+        # 5. Çalışan sunucular için linkleri oluştur
+        for srv in active_servers:
+            for cid, cname in channels:
+                furl = f"{srv}/{cid}.m3u8" if "checklist" in srv else f"{srv}/checklist/{cid}.m3u8"
+                furl = furl.replace("checklist//", "checklist/")
+                
+                results.append({
+                    "name": f"ANDRO - {cname}",
+                    "url": furl,
+                    "group": "ANDRO SPOR (YENI)",
+                    "logo": "https://hizliresim.com/gm50rk9",
+                    "ref": ifr
+                })
+        print(f"[OK] Andro-Panel: {len(active_servers)} sunucu aktif bulundu.")
+
+    except Exception as e:
+        print(f"[!] Andro-Panel hatasi: {e}")
+
+    return results
+
 # --- ANA ÇALIŞTIRICI ---
 def main():
     all_streams = []
+    
+    # Tüm kaynakları topla
     all_streams.extend(fetch_vavoo())
     all_streams.extend(fetch_netspor())
     all_streams.extend(fetch_trgoals())
     all_streams.extend(fetch_selcuk_sporcafe())
+    all_streams.extend(fetch_andro_nodes()) # Yeni eklenen fonksiyon
     
-    if not all_streams: return
+    if not all_streams: 
+        print("Hicbir kanal bulunamadi!")
+        return
 
     content = "#EXTM3U\n"
     content += f"# Son Guncelleme: {datetime.datetime.now().strftime('%d.%m.%Y %H:%M:%S')}\n"
     for s in all_streams:
         logo = f' tvg-logo="{s["logo"]}"' if s.get("logo") else ""
         content += f'#EXTINF:-1 group-title="{s["group"]}"{logo},{s["name"]}\n'
-        if s.get("ref"): content += f'#EXTVLCOPT:http-referrer={s["ref"]}\n'
+        # Referrer varsa VLC option olarak ekle
+        if s.get("ref"): 
+            content += f'#EXTVLCOPT:http-referrer={s["ref"]}\n'
+            content += f'#EXTHTTP:{"User-Agent"}:{HEADERS["User-Agent"]}\n'
         content += f'{s["url"]}\n'
 
     with open(OUTPUT_FILE, "w", encoding="utf-8-sig") as f:
         f.write(content)
-    print(f"\n[OK] Tum siteler ve kanallar eksiksiz olarak birlestirildi.")
+    print(f"\n[OK] Tum siteler ve kanallar eksiksiz olarak birlestirildi -> {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
