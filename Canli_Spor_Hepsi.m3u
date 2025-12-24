@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-# Son Guncelleme: 23.12.2025 23:37:22
+# Son Guncelleme: 24.12.2025 00:47:10
 #EXTINF:-1 group-title="VAVOO SPOR (STABIL)" tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-sports-haber-hd.png",VAVOO - beIN SPORTS Haber
 https://yildiziptv-turktv.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/vavoo-iptv/play/398999553310ffc0558467
 #EXTINF:-1 group-title="VAVOO SPOR (STABIL)" tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-sports-hd-1-1.png",VAVOO - beIN SPORTS 1 HD
@@ -32,15 +32,11 @@ https://andro.adece12.sbs/checklist/androstreamliveas.m3u8
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Boluspor - Fethiyespor (15:30 | | | Ziraat Türkiye Kupasi ZTK)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamliveas.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Burkina Faso - Ekvator Ginesi (15:30 | | | CAF Afrika Uluslar Kupasi)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Keçiörengücü - Beyoğlu Yeni Çarşi (18:00 | | | Ziraat Türkiye Kupasi ZTK)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Boluspor - Fethiyespor (15:30 | | | Ziraat Türkiye Kupasi ZTK)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamliveas.m3u8
@@ -48,14 +44,18 @@ https://andro.adece12.sbs/checklist/androstreamliveas.m3u8
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Al Ahli Doha - Andijan (19:00 | | | AFC Şampiyonlar Ligi)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Keçiörengücü - Beyoğlu Yeni Çarşi (18:00 | | | Ziraat Türkiye Kupasi ZTK)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivesm1.m3u8
+https://andro.adece12.sbs/checklist/androstreamliveas.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Al Nassr - Al Zawraa (19:00 | | | AFC Şampiyonlar Ligi)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivesm2.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Al Ahli Doha - Andijan (19:00 | | | AFC Şampiyonlar Ligi)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Fildişi Sahili - Mozambik (20:30 | | | CAF Afrika Uluslar Kupasi)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -68,90 +68,62 @@ https://andro.adece12.sbs/checklist/androstreamliveas.m3u8
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Hannover (Amatörler) - Koln (Amatörler)CANLI (02:00 | | | BudnesLiga LFL 5x5)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - New York Knicks - Cleveland Cavaliers (20:00 | | | NBA)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984181.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Whitecaps + - Bulls +CANLI (02:10 | | | MLS+)
+https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - OKC Thunder - SA Spurs (22:30 | | | NBA)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984205.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Portonuevo (2x2) - Presto (2x2)CANLI (02:15 | | | Short Football 2x2)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984268.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - PSY - ITCANLI (02:20 | | | Student League 2)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984243.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - MINERALOGY - ENERGYCANLI (02:20 | | | Student League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984253.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Indy + - Rowdies +CANLI (02:30 | | | MLS+)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984266.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Defensores Puerto Vilelas - Resistencia CentralCANLI (02:30 | | | Arjantin Şampiyonası. Bölgesel Liga)
+https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Defensores Puerto Vilelas - Resistencia CentralCANLI (02:30 | | | Argentina. Torneo Regiona...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17984249.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Hansa (Amatörler) - Greuther Furth (Amatörler)CANLI (02:30 | | | BudnesLiga LFL 5x5)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Siupe - Taibinha | 3 |CANLI (02:30 | | | Brazil. Championship of Goncalense. Serie C)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984281.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Mainz (Amatörler) - Hoffenheim (Amatörler)CANLI (02:30 | | | BudnesLiga LFL 5x5)
+https://andro.adece12.sbs/checklist/androstreamlivech17984331.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Brown San Vicente - Ferrocarril del Estado RafaelaCANLI (03:00 | | | Argentina. Liga Rafaelina)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984280.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Feyenoord (Amatörler) - Groningen (Amatörler)CANLI (02:35 | | | Division 4x4)
+https://andro.adece12.sbs/checklist/androstreamlivech17984437.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Fundacion Universitaria del Area Andina - Confetex Colombia-Villa SantanaCANLI (03:05 | | | Copa Pereira)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984295.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Sounders + - Timber +CANLI (02:40 | | | MLS+)
+https://andro.adece12.sbs/checklist/androstreamlivech17984441.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - PSV (Amatörler) - Feyenoord (Amatörler)CANLI (03:25 | | | Division 4x4)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984300.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Interforce Minas - Flamengo BasketballCANLI (01:00 | | | Brazil. NBB)
+https://andro.adece12.sbs/checklist/androstreamlivech17984470.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Indy + - Tulsa +CANLI (03:30 | | | MLS+)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17983962.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Cal State Bakersfield Roadrunners - Idaho VandalsCANLI (01:00 | | | Ulusal Öğrenci Spor Birliği (NСАА))
+https://andro.adece12.sbs/checklist/androstreamlivech17984467.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Union (Amatörler) - Hannover (Amatörler)CANLI (03:30 | | | BudnesLiga LFL 5x5)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17983968.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Uniao Corinthians - UNIFACISACANLI (01:30 | | | Brazil. NBB)
+https://andro.adece12.sbs/checklist/androstreamlivech17984482.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Freiburg (Amatörler) - Darmstadt (Amatörler)CANLI (03:30 | | | BudnesLiga LFL 5x5)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984090.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Club Athletico Paulistano - CorinthiansCANLI (01:30 | | | Brazil. NBB)
+https://andro.adece12.sbs/checklist/androstreamlivech17984483.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Whitecaps + - Sounders +CANLI (03:40 | | | MLS+)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984089.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Meksika (TBL) - Malaysia (TBL)CANLI (01:59 | | | Table Basketball League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984153.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17984501.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Cruzeiro - Vasco Da GamaCANLI (02:00 | | | Brazil. NBB)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17984204.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - St. John's Red Storm - Harvard CrimsonCANLI (02:00 | | | Ulusal Öğrenci Spor Birliği (NСАА))
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984214.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Loyola Marymount Lions - Morgan State BearsCANLI (02:00 | | | Ulusal Öğrenci Spor Birliği (NСАА))
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Loyola Marymount Lions - Morgan State BearsCANLI (02:00 | | | National Collegiate Athle...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17984210.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - İtalya (TBL) - Peru (TBL)CANLI (02:00 | | | Table Basketball League)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - St. John's Red Storm - Harvard CrimsonCANLI (02:00 | | | National Collegiate Athle...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984155.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Rostov-on-Don - KrasnoyarskCANLI (02:04 | | | IPBL. Pro Division)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984206.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17984214.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - BRB-Brezilya - Pato BasqueteCANLI (02:15 | | | Brazil. NBB)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -160,54 +132,90 @@ https://andro.adece12.sbs/checklist/androstreamlivech17984244.m3u8
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17984284.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Tayland (TBL) - Netherlands (TBL)CANLI (02:59 | | | Table Basketball League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984336.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Nizhny Novgorod - Rostov-on-DonCANLI (03:00 | | | IPBL. Pro Division)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984404.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Philadelphia 76ers - Brooklyn NetsCANLI (03:00 | | | NBA)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984368.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Charlotte Hornets - Washington WizardsCANLI (03:00 | | | NBA)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984371.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Portekiz (TBL) - Singapore (TBL)CANLI (03:00 | | | Table Basketball League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984338.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Seton Hall Pirates - Villanova WildcatsCANLI (03:00 | | | Ulusal Öğrenci Spor Birliği (NСАА))
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984411.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Miami Heat - Toronto RaptorsCANLI (03:30 | | | NBA)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984462.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Cleveland Cavaliers - New Orleans PelicansCANLI (03:30 | | | NBA)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984460.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Atlanta Hawks - Chicago BullsCANLI (03:30 | | | NBA)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984461.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Indiana Pacers - Milwaukee BucksCANLI (03:30 | | | NBA)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984463.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Centro Deportivo Don Bosco - Villa San MartinCANLI (03:30 | | | Argentina. Region League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17984530.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Alexey Kiselev - Edgar KocharyanCANLI (00:19 | | | ATT. Togliatti)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17983782.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Alexey Onegin - Oleg PesherovCANLI (01:08 | | | ATT. Moskova)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17983950.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Vladimir Tsirkin - Dmitry PershikovCANLI (02:01 | | | ATT. Saransk)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17984176.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Igor Maksimenko - Artur ShinkevichCANLI (02:21 | | | ATT. Minsk)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Aleksandr Dubovik - Nikolay NasenkovCANLI (03:02 | | | ATT. Moskova)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984252.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - ABD (Bayanlar) - Rusya (Bayanlar)CANLI (00:35 | | | VCA. Master Volleyball League. Bayanlar)
+https://andro.adece12.sbs/checklist/androstreamlivech17984385.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Timur Timoshkin - Dmitry YagodinskyCANLI (03:37 | | | ATT. Togliatti)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17983848.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - ABD - JaponyaCANLI (01:00 | | | VCA. Master Volleyball League)
+https://andro.adece12.sbs/checklist/androstreamlivech17984517.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Japonya (Bayanlar) - Rusya (Bayanlar)CANLI (02:50 | | | VCA. Master Volleyball League. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17983938.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - ABD (Bayanlar) - Sırbistan (Bayanlar)CANLI (01:25 | | | VCA. Master Volleyball League. Bayanlar)
+https://andro.adece12.sbs/checklist/androstreamlivech17984337.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Japonya (Bayanlar) - Sırbistan (Bayanlar)CANLI (02:55 | | | VCA. Master Volleyball League. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984035.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ural Warriors - Mountain DevilsCANLI (01:40 | | | Ural League 2)
+https://andro.adece12.sbs/checklist/androstreamlivech17984353.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - İtalya - SlovenyaCANLI (03:05 | | | VCA. Master Volleyball League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984110.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Brezilya - SlovenyaCANLI (01:50 | | | VCA. Master Volleyball League)
+https://andro.adece12.sbs/checklist/androstreamlivech17984403.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - VC Uralmash - Iron BulletsCANLI (03:20 | | | Ural League 2)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984132.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Polonya - ArjantinCANLI (02:00 | | | SpikeVolleyball. International Cup)
+https://andro.adece12.sbs/checklist/androstreamlivech17984448.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Polonya - İtalyaCANLI (03:20 | | | VCA. Master Volleyball League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984169.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17984446.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ukrayna - ABDCANLI (23:00 | | | CBV 23. Duo Masters)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17984183.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Avustralya - SlovakyaCANLI (23:30 | | | CBV 23. Duo Masters)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17984279.m3u8
 #EXTINF:-1 group-title="NETSPOR CANLI TV KANALLARI",NET - Bein Sports 1
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -571,154 +579,6 @@ https://dga1op10s1u3leo.38f3bb9511487c.click/live/selcukeurosport1/playlist.m3u8
 #EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 1 HD
 #EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 1 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 2 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 3 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 4 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 5 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport Max 1 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport Max 2 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:S Sport 1 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:S Sport 2 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tivibu Sport HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivets.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tivibu Sport 1 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tivibu Sport 2 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tivibu Sport 3 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tivibu Sport 4 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivets4.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Smart Sport 1 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Smart Sport 2 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Euro Sport 1 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Euro Sport 2 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 1 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivetb1.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 2 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivetb2.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 3 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivetb3.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 4 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivetb4.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 5 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivetb5.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 6 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivetb6.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 7 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivetb7.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 8 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivetb8.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 1 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamliveexn1.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 2 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamliveexn2.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 3 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamliveexn3.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 4 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamliveexn4.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 5 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamliveexn5.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 6 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamliveexn6.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 7 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamliveexn7.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 8 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 1 HD
-#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece14.sbs/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 1 HD
 #EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
@@ -864,3 +724,151 @@ https://andro.adece14.sbs/checklist/androstreamliveexn7.m3u8
 #EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece14.sbs/checklist/androstreamliveexn8.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 1 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 1 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 2 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 3 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 4 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport 5 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport Max 1 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:beIN Sport Max 2 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivebsm2.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:S Sport 1 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:S Sport 2 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivess2.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tivibu Sport HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivets.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tivibu Sport 1 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivets1.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tivibu Sport 2 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivets2.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tivibu Sport 3 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivets3.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tivibu Sport 4 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivets4.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Smart Sport 1 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivesm1.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Smart Sport 2 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivesm2.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Euro Sport 1 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivees1.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Euro Sport 2 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivees2.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 1 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivetb1.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 2 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivetb2.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 3 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivetb3.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 4 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivetb4.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 5 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivetb5.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 6 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivetb6.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 7 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivetb7.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Tabii 8 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivetb8.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 1 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 2 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 3 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 4 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 5 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 6 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamliveexn6.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 7 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamliveexn7.m3u8
+#EXTINF:-1 group-title="ANDRO SPOR (YENI)" tvg-logo="https://hizliresim.com/gm50rk9",ANDRO - TR:Exxen 8 HD
+#EXTVLCOPT:http-referrer=https://adece15.sbs/event.html?id=androstreamlivebs1
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamliveexn8.m3u8
