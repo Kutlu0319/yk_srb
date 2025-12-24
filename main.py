@@ -12,7 +12,48 @@ WORKING_BS1_URL = "https://andro.adece12.sbs/checklist/receptestt.m3u8"
 # SSL Uyarılarını gizle (Andro taraması için)
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# --- 1. VAVOO SİSTEMİ (STABİL KAYNAK) ---
+# --- 1. ATOM SPOR (VIP KESİN LİNK) ---
+def fetch_atom_spor():
+    print("[*] AtomSpor (VIP) kanalları ekleniyor...")
+    results = []
+    
+    # Tespit edilen sabit base url
+    base_url = "https://hlssssss.volepartigo.workers.dev/https://corestream.ronaldovurdu.help//hls/"
+    
+    # Kullanıcının istediği logo
+    atom_logo = "https://hizliresim.com/gm50rk9b"
+    
+    # Kesin çalıştığı doğrulanan ID listesi
+    channels = [
+        ("Bein Sports 1", "bein-sports-1"),
+        ("Bein Sports 2", "bein-sports-2"),
+        ("Bein Sports 3", "bein-sports-3"),
+        ("Bein Sports 4", "bein-sports-4"),
+        ("Bein Sports 5", "bein-sports-5"),
+        ("S Sport 1", "s-sport"),           # Düzeltilmiş ID
+        ("S Sport 2", "s-sport-2"),
+        ("S Sport Plus", "ssport-plus"),
+        ("Tivibu Spor 1", "tivibu-spor-1"),
+        ("Tivibu Spor 2", "tivibu-spor-2"),
+        ("Tivibu Spor 3", "tivibu-spor-3"),
+        ("Smart Spor", "smart-spor"),
+        ("TV 8.5", "tv-8-5"),
+        ("Bein Sports Haber", "bein-sports-haber")
+    ]
+    
+    for name, cid in channels:
+        full_url = f"{base_url}{cid}.m3u8"
+        results.append({
+            "name": f"ATOM - {name}",
+            "url": full_url,
+            "group": "ATOM SPOR (VIP)",
+            "logo": atom_logo,
+            "ref": "https://atomsportv485.top/" # Referer başlığı gerekirse diye
+        })
+        
+    return results
+
+# --- 2. VAVOO SİSTEMİ (STABİL KAYNAK) ---
 def fetch_vavoo():
     print("[*] Vavoo kanalları ekleniyor...")
     results = []
@@ -31,7 +72,7 @@ def fetch_vavoo():
         results.append({"name": f"VAVOO - {ch['n']}", "url": f"{proxy_base}{ch['id']}", "group": "VAVOO SPOR (STABIL)", "logo": ch['img'], "ref": ""})
     return results
 
-# --- 2. NETSPOR SİSTEMİ (BS1 FIXLİ) ---
+# --- 3. NETSPOR SİSTEMİ (BS1 FIXLİ) ---
 def fetch_netspor():
     print("[*] Netspor taranıyor...")
     results = []
@@ -56,7 +97,7 @@ def fetch_netspor():
     except: pass
     return results
 
-# --- 3. TRGOALS SİSTEMİ (TAM LİSTE) ---
+# --- 4. TRGOALS SİSTEMİ (TAM LİSTE) ---
 def fetch_trgoals():
     print("[*] Trgoals taranıyor...")
     results = []
@@ -84,7 +125,7 @@ def fetch_trgoals():
             except: continue
     return results
 
-# --- 4. SELÇUKSPOR SİSTEMİ (TAM LİSTE) ---
+# --- 5. SELÇUKSPOR SİSTEMİ (TAM LİSTE) ---
 def fetch_selcuk_sporcafe():
     print("[*] Selçukspor taranıyor...")
     results = []
@@ -116,7 +157,7 @@ def fetch_selcuk_sporcafe():
                 except: continue
     return results
 
-# --- 5. ANDRO PANEL SİSTEMİ (YENİ EKLENDİ) ---
+# --- 6. ANDRO PANEL SİSTEMİ (YENİ EKLENDİ) ---
 def fetch_andro_nodes():
     print("[*] Andro-Panel (Taraftarium) taranıyor...")
     results = []
@@ -225,12 +266,17 @@ def fetch_andro_nodes():
 def main():
     all_streams = []
     
-    # Tüm kaynakları topla
+    print("--- SPOR LİSTESİ OLUŞTURUCU BAŞLATILDI ---")
+    
+    # 1. ATOM SPOR (En başa ekliyoruz, çünkü en kalitelisi bu)
+    all_streams.extend(fetch_atom_spor())
+    
+    # 2. Diğer kaynakları topla
     all_streams.extend(fetch_vavoo())
     all_streams.extend(fetch_netspor())
     all_streams.extend(fetch_trgoals())
     all_streams.extend(fetch_selcuk_sporcafe())
-    all_streams.extend(fetch_andro_nodes()) # Yeni eklenen fonksiyon
+    all_streams.extend(fetch_andro_nodes())
     
     if not all_streams: 
         print("Hicbir kanal bulunamadi!")
@@ -239,12 +285,18 @@ def main():
     content = "#EXTM3U\n"
     content += f"# Son Guncelleme: {datetime.datetime.now().strftime('%d.%m.%Y %H:%M:%S')}\n"
     for s in all_streams:
-        logo = f' tvg-logo="{s["logo"]}"' if s.get("logo") else ""
-        content += f'#EXTINF:-1 group-title="{s["group"]}"{logo},{s["name"]}\n'
-        # Referrer varsa VLC option olarak ekle
+        # Logo varsa ekle, yoksa boş bırak
+        logo_attr = f' tvg-logo="{s["logo"]}"' if s.get("logo") else ""
+        content += f'#EXTINF:-1 group-title="{s["group"]}"{logo_attr},{s["name"]}\n'
+        
+        # Referer ve User-Agent varsa VLC option olarak ekle
         if s.get("ref"): 
             content += f'#EXTVLCOPT:http-referrer={s["ref"]}\n'
-            content += f'#EXTHTTP:{"User-Agent"}:{HEADERS["User-Agent"]}\n'
+        
+        # Tüm linkler için User-Agent standart olsun
+        content += f'#EXTVLCOPT:http-user-agent={HEADERS["User-Agent"]}\n'
+        content += f'#EXTHTTP:{"User-Agent"}:{HEADERS["User-Agent"]}\n'
+        
         content += f'{s["url"]}\n'
 
     with open(OUTPUT_FILE, "w", encoding="utf-8-sig") as f:
