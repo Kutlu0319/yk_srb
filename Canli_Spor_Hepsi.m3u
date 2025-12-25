@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-# Son Guncelleme: 25.12.2025 17:39:16
+# Son Guncelleme: 25.12.2025 18:14:21
 #EXTINF:-1 group-title="ATOM SPOR (VIP)" tvg-logo="https://hizliresim.com/gm50rk9b",ATOM - Bein Sports 1
 #EXTVLCOPT:http-referrer=https://atomsportv485.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -182,26 +182,16 @@ https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Maziya SRC - Club ValenciaCANLI (19:00 | | | Maldives. Premier League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994711.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Al-Hilal Benghazi - Al-Ahly SC BenghaziCANLI (19:00 | | | Libya. Premier League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994726.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Al Khums - AsswehlyCANLI (19:30 | | | Libya. Premier League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17994860.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Hapoel Petah Tikva F.C. - Hapoel Ironi KarmielCANLI (20:00 | | | Israel State Cup)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Al-Ahly Tripoli - Al-MadinaCANLI (20:00 | | | Libya. Premier League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994940.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17995005.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Bnei Sakhnin F.C. - Maccabi Yafo Kabilyo FCCANLI (20:00 | | | Israel State Cup)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -212,46 +202,36 @@ https://andro.adece12.sbs/checklist/androstreamlivech17994964.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17994941.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Al-Ahly Tripoli - Al-MadinaCANLI (20:00 | | | Libya. Premier League)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Hapoel Petah Tikva F.C. - Hapoel Ironi KarmielCANLI (20:00 | | | Israel State Cup)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17995005.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Neom SC - Al-Najma UnaizahCANLI (20:30 | | | Saudi Arabia. Saudi Profe...)
+https://andro.adece12.sbs/checklist/androstreamlivech17994940.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Neom SC - Al-Najma UnaizahCANLI (20:30 | | | Suudi Arabistan Şampiyonası. Premier Lig)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17995092.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Al-Riyadh SC - Ettifaq DammamCANLI (20:30 | | | Saudi Arabia. Saudi Profe...)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Al-Riyadh SC - Ettifaq DammamCANLI (20:30 | | | Suudi Arabistan Şampiyonası. Premier Lig)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17995091.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Dynamo Grozny - Metalurg MagnitogorskCANLI (19:00 | | | Rusya Şampiyonası. Süper Lig)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Zamalek SC - Smouha Sporting ClubCANLI (21:00 | | | Mısır. Ligler Kupası)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994690.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Zenit Saint-Petersburg II - ChelbasketCANLI (19:00 | | | Rusya Şampiyonası. Süper Lig)
+https://andro.adece12.sbs/checklist/androstreamlivech17995212.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Pyramids - Ismaily SCCANLI (21:00 | | | Mısır. Ligler Kupası)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994692.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - CSU Cheboksary (Bayanlar) - Yunost Penzenskaya Oblast (Bayanlar)CANLI (19:00 | | | Rusya Şampiyonası. Büyük Lig. Bayanlar)
+https://andro.adece12.sbs/checklist/androstreamlivech17995204.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Hapoel Tel Aviv F.C. - F.C. AshdodCANLI (21:00 | | | Israel State Cup)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994717.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Jets - UFOCANLI (19:55 | | | IPBL. Space Division)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994907.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Gagarin - HyperdunkersCANLI (19:55 | | | IPBL. Space Division)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994902.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17995185.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Elitzur Ramla B.C. (Bayanlar) - Hapoel Rishon Le-Zion (Bayanlar)CANLI (20:00 | | | İsrail kupası. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -267,21 +247,6 @@ https://andro.adece12.sbs/checklist/androstreamlivech17994973.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17994976.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - New Zealand (TBL) - Çin (TBL)CANLI (20:00 | | | Table Basketball League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994884.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Bulgaristan (TBL) - Kolombiya (TBL)CANLI (20:00 | | | Table Basketball League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994883.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Kaluga (Bayanlar) - Murino (Bayanlar)CANLI (20:00 | | | IPBL. Pro Division. Bayanlar)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994925.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Maccabi Bnot Ashdod (Bayanlar) - Maccabi Ramat Gan (Bayanlar)CANLI (20:00 | | | İsrail kupası. Bayanlar)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -292,21 +257,11 @@ https://andro.adece12.sbs/checklist/androstreamlivech17995009.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17995013.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - PBC Lokomotiv Kuban - PBC CSKA MoskovaCANLI (20:00 | | | VTB Lig Kupası)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - PBC Lokomotiv Kuban - PBC CSKA MoskovaCANLI (20:00 | | | VTB League Cup)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17994929.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Salavat - SmolenskCANLI (20:05 | | | IPBL. Pro Division)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994933.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ulan-Ude - ChelyabinskCANLI (20:10 | | | IPBL. Pro Division)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994990.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Nuwaidrad - Al MuharraqCANLI (20:15 | | | Bahreyn Şampiyonası. Premier Ligi)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -322,6 +277,41 @@ https://andro.adece12.sbs/checklist/androstreamlivech17995012.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17995017.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Interstellar - Gravity BreakersCANLI (20:50 | | | IPBL. Space Division)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17995150.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Vostochny - BaikonurCANLI (20:50 | | | IPBL. Space Division)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17995158.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Vladivostok (Bayanlar) - Norilsk (Bayanlar)CANLI (21:00 | | | IPBL. Pro Division. Bayanlar)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17995190.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Kolombiya (TBL) - Çin (TBL)CANLI (21:00 | | | Table Basketball League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17995151.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Bulgaristan (TBL) - New Zealand (TBL)CANLI (21:00 | | | Table Basketball League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17995153.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Hapoel Lev Jerusalem (Bayanlar) - Hapoel Petah Tikva (Bayanlar)CANLI (21:00 | | | Israel Cup. Women)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17995242.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Chita - KhabarovskCANLI (21:05 | | | IPBL. Pro Division)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17995222.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Oleg Lebedev - Vladimir ZaharevichCANLI (19:59 | | | ATT. Minsk)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -347,11 +337,6 @@ https://andro.adece12.sbs/checklist/androstreamlivech17995035.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17995073.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - ABD - AvustralyaCANLI (16:40 | | | CBV 23. Duo Masters)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994833.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Kanada - UkraynaCANLI (17:20 | | | CBV 23. Duo Masters)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -362,41 +347,11 @@ https://andro.adece12.sbs/checklist/androstreamlivech17995022.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17994475.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - VC Gaz Al Janub - Al MasafiCANLI (18:15 | | | İrak Şampiyonası)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994542.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - BGSK Spartak Bryansk - Ohotno BryanskCANLI (18:30 | | | Rusya Şampiyonası. 1.Lig)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994608.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Maldivler (Bayanlar) - Kırgızistan (Bayanlar)CANLI (18:35 | | | Orta Asya Kupası. Bayanlar)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994579.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Japonya (Bayanlar) - ABD (Bayanlar)CANLI (18:40 | | | VCA. Master Volleyball League. Bayanlar)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994577.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Arjantin - İtalyaCANLI (18:50 | | | VCA. Master Volleyball League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17994617.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Türkiye (Bayanlar) - Brezilya (Bayanlar)CANLI (19:45 | | | VCA. Master Volleyball League. Bayanlar)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994862.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - İtalya - ArjantinCANLI (19:45 | | | VCA. Master Volleyball League)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech17994863.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - TENT Obrenovac (Bayanlar) - OK Crvena Zvezda (Bayanlar)CANLI (19:55 | | | Serbian Cup. Women)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -407,6 +362,21 @@ https://andro.adece12.sbs/checklist/androstreamlivech17994895.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech17994988.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Progress - ElevationCANLI (20:40 | | | Ural League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17995105.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ural Titans - Ural MastersCANLI (20:40 | | | Ural League 2)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17995108.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - ABD (Bayanlar) - Brezilya (Bayanlar)CANLI (20:45 | | | VCA. Master Volleyball League. Bayanlar)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech17995131.m3u8
 #EXTINF:-1 group-title="NETSPOR CANLI TV KANALLARI",NET - Bein Sports 1
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
