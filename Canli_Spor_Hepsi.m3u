@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-# Son Guncelleme: 03.01.2026 04:49:36
+# Son Guncelleme: 03.01.2026 05:11:52
 #EXTINF:-1 group-title="ATOM SPOR (VIP)" tvg-logo="https://hizliresim.com/gm50rk9b",ATOM - Bein Sports 1
 #EXTVLCOPT:http-referrer=https://atomsportv485.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -462,26 +462,11 @@ https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Pacific Tigers - Oregon State BeaversCANLI (06:00 | | | National Collegiate Athle...)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Sporting do Imbondeiro - Herois do HuamboCANLI (08:00 | | | Angola. Liga Bantu)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046137.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Saint Mary's Gaels - Portland PilotsCANLI (06:00 | | | National Collegiate Athle...)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046209.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - San Francisco Dons - San Diego TorerosCANLI (06:00 | | | National Collegiate Athle...)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046208.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Santa Clara Broncos - Pepperdine WavesCANLI (06:00 | | | National Collegiate Athle...)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046207.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech18046488.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Golden State Warriors - Oklahoma City ThunderCANLI (06:00 | | | NBA)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -492,61 +477,71 @@ https://andro.adece12.sbs/checklist/androstreamlivech18046089.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech18046215.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Revda - MagadanCANLI (07:00 | | | IPBL. Pro Division)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046211.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - California Golden Bears - Notre Dame Fighting IrishCANLI (07:00 | | | Ulusal Öğrenci Spor Birliği (NСАА))
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech18046340.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Tambov (Bayanlar) - Tomsk (Bayanlar)CANLI (07:10 | | | IPBL. Pro Division. Bayanlar)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046347.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Sevastopol - EngelsCANLI (07:20 | | | IPBL. Pro Division)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech18046384.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Jacob Fearnley - Dane SweenyCANLI (05:00 | | | ATP. Brisbane. Qualificat...)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ryukyu Golden Kings Okinawa - Aisin SeahorsesCANLI (08:00 | | | Japan. B League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046268.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Shuai Zhang - Taylah PrestonCANLI (05:20 | | | WTA. Brisbane. Qualificat...)
+https://andro.adece12.sbs/checklist/androstreamlivech18046527.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ulsan Mobis - Daegu KOGASCANLI (08:00 | | | South Korea. KBL)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18045929.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Dmitry Pershikov - Vladimir TsirkinCANLI (06:10 | | | ATT. Saransk)
+https://andro.adece12.sbs/checklist/androstreamlivech18046516.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Goyang Sono Skygunners - Suwon KT SonicboomCANLI (08:00 | | | South Korea. KBL)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046132.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Arthur Rinderknech - Stanislas WawrinkaCANLI (06:30 | | | United Cup)
+https://andro.adece12.sbs/checklist/androstreamlivech18046517.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Anapa - UfaCANLI (08:00 | | | IPBL. Pro Division)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046308.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech18046505.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Skywalkers - MoonballersCANLI (08:00 | | | IPBL. Space Division)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech18046469.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Yulia Putintseva - Olivia GadeckiCANLI (06:30 | | | WTA. Brisbane. Qualificat...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech18046235.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Ethan Quinn - Benjamin BonziCANLI (06:45 | | | ATP. Brisbane. Qualificat...)
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Arthur Rinderknech - Stanislas WawrinkaCANLI (06:30 | | | United Cup)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046271.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech18046308.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Terence Atmane - Yannick HanfmannCANLI (07:00 | | | ATP. Brisbane. Qualificat...)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech18046339.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Daria Pilyasova - Oksana NuzhnenkoCANLI (07:55 | | | ATT. Moskova. Bayanlar)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech18046523.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Tristan Schoolkate - James DuckworthCANLI (08:00 | | | ATP. Brisbane. Qualificat...)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech18046493.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Elena Gabriela Ruse - Zeynep SönmezCANLI (08:00 | | | WTA. Brisbane. Qualificat...)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech18046563.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Küba - LetonyaCANLI (04:20 | | | CBV 23. Duo Masters)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -557,11 +552,6 @@ https://andro.adece12.sbs/checklist/androstreamlivech18046365.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech18046412.m3u8
-#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - İtalya - PolonyaCANLI (06:50 | | | SpikeVolleyball. International Cup)
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://andro.adece12.sbs/checklist/androstreamlivech18046273.m3u8
 #EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - Suntory Sunbirds - Tokyo Great BearsCANLI (07:05 | | | Japan. SV.League)
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -597,6 +587,16 @@ https://andro.adece12.sbs/checklist/androstreamlivech18046357.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://andro.adece12.sbs/checklist/androstreamlivech18046387.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - KB Stars - Suwon KEPCO VixtormCANLI (08:00 | | | South Korea Championship)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech18046543.m3u8
+#EXTINF:-1 group-title="NETSPOR GÜNÜN MAÇLARI",NET - JTEKT Stings - Osaka BluteonCANLI (08:05 | | | Japan. SV.League)
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.adece12.sbs/checklist/androstreamlivech18046556.m3u8
 #EXTINF:-1 group-title="NETSPOR CANLI TV KANALLARI",NET - Bein Sports 1
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
