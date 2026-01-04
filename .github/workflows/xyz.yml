@@ -2,15 +2,15 @@ name: XYZ
 
 on:
   schedule:
-    - cron: '0 * * * *'      # Saatte 1 kez (UTC)
-  workflow_dispatch:         # Manuel tetikleme
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Kodları al
+      - name: Repo'yu al
         uses: actions/checkout@v4
 
       - name: Python kur
@@ -18,11 +18,14 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Gerekli kütüphaneler
+      - name: Gerekli kütüphane
         run: pip install httpx
 
       - name: Scripti çalıştır
         run: python xyz.py
+
+      - name: Dosya kontrol
+        run: ls -la
 
       - name: Repo'ya commit et (sadece değişiklik varsa)
         run: |
@@ -30,10 +33,8 @@ jobs:
           git config user.email "github-actions@github.com"
           git add xyz.m3u
           if ! git diff --cached --quiet; then
-            git commit -m "Update zvt.m3u"
+            git commit -m "Update xyz.m3u"
             git push
           else
-            echo "Değişiklik yok, commit atılmadı."
+            echo "Değişiklik yok"
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
