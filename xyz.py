@@ -90,7 +90,7 @@ class XYZsportsManager:
 
         for cid in self.channel_ids:
             name = cid.replace("-", " ").title()
-            m3u.append(f'#EXTINF:-1 group-title="Umitmod",{name}')
+            m3u.append(f'#EXTINF:-1 group-title="xyzsport",{name}')
             m3u.append('#EXTVLCOPT:http-user-agent=Mozilla/5.0')
             m3u.append(f'#EXTVLCOPT:http-referrer={referer_url}')
             m3u.append(f'{base_stream_url}{cid}/playlist.m3u8')
